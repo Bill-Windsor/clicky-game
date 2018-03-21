@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "selected": false,
+    "name": "Aquaman",
+    "image": "images/Aquaman.jpg"
+  },
+  {
+    "id": 2,
+    "selected": false,
+    "name": "Batman",
+    "image": "images/Batman.jpg"
+  },
+  {
+    "id": 3,
+    "selected": false,
+    "name": "Black-Canary",
+    "image": "images/Black-Canary.jpg"
+  },
+  {
+    "id": 4,
+    "selected": false,
+    "name": "Cassandra-Cain",
+    "image": "images/Cassandra-Cain.png"
+  },
+  {
+    "id": 5,
+    "selected": false,
+    "name": "Cyborg",
+    "image": "images/Cyborg.jpg"
+  },
+  {
+    "id": 6,
+    "selected": false,
+    "name": "Flash",
+    "image": "images/Flash.jpg"
+  },
+  {
+    "id": 7,
+    "selected": false,
+    "name": "Green-Arrow",
+    "image": "images/Green-Arrow.jpg"
+  },
+    {
+    "id": 8,
+    "selected": false,
+    "name": "Spectre",
+    "image": "images/Spectre.png"
+  },
+  {
+    "id": 9,
+    "selected": false,
+    "name": "Supergirl",
+    "image": "images/Supergirl.jpg"
+  },
+  {
+    "id": 10,
+    "selected": false,
+    "name": "Superman",
+    "image": "images/Superman.png"
+  },
+  {
+    "id": 11,
+    "selected": false,
+    "name": "Wonder-Woman",
+    "image": "images/Wonder-Woman.jpg"
+  },
+  {
+    "id": 12,
+    "selected": false,
+    "name": "Red-Tornado",
+    "image": "images/Red-Tornado.jpg"
+  }
+]

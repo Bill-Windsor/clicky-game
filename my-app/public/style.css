@@ -1,0 +1,70 @@
+* {
+   margin: 0px;
+   padding: 0px;
+}
+
+h1     { font: bold 24px Tahoma;}
+h2     { font: bold 20px Tahoma;} 
+h3     { font: bold 18px Tahoma;}
+h4     { font: bold 18px TimesNewRoman;}
+h5, li { font: bold 16px TimesNewRoman;}
+h6     { font: bold 14px TimesNewRoman;}
+   
+   header, nav, section, article, aside, footer, hgroup {
+   display: block;
+}
+
+body {
+   width: 100%;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-box-pack: center;
+   -webkit-box-flex: 1;
+}
+
+#top_header { 
+  margin: 0px 0px 20px 0px;
+  background-color: skyblue;
+  color: black;
+  border: 2px solid black;
+  padding: 10px 10px 10px 10px;
+}
+
+#main_section {
+	float: left;
+	width: 60%;
+	color: black;
+	border: 6px solid blue;
+	margin: 10px 10px;
+	padding: 10px;
+}
+
+#photo_gallery {
+   text-align: center;
+   width: 90%;
+   color: black;
+   border: 6px solid blue;
+   margin: 10px 10px;
+   padding: 10px;
+}
+
+#the_footer1 {
+   clear: both;
+   background-color: blue;
+   height: 50px;
+   padding: 10px 10px;
+}
+
+#the_footer2 {
+   clear: both;
+   text-align: left;
+   color: white;
+   font-weight: bold;
+   background-color: darkblue;
+   padding: 10px 10px;
+}
+
+img.scaled:hover {
+   -webkit-transform : scale(1.2);
+   -transform : scale(1.2);
+}
