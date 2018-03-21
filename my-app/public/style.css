@@ -48,23 +48,30 @@ body {
    padding: 10px;
 }
 
+.select-photo {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 10px 20px 10px 20px;
+}
+
 #the_footer1 {
-   clear: both;
-   background-color: blue;
-   height: 50px;
-   padding: 10px 10px;
+  clear: both;
+  background-color: blue;
+  height: 50px;
+  padding: 10px 10px;
 }
 
 #the_footer2 {
-   clear: both;
-   text-align: left;
-   color: white;
-   font-weight: bold;
-   background-color: darkblue;
-   padding: 10px 10px;
+  clear: both;
+  text-align: left;
+  color: white;
+  font-weight: bold;
+  background-color: darkblue;
+  padding: 10px 10px;
 }
 
 img.scaled:hover {
-   -webkit-transform : scale(1.2);
-   -transform : scale(1.2);
+  -webkit-transform : scale(1.2);
+  -transform : scale(1.2);
 }
